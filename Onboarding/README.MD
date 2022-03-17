@@ -125,7 +125,7 @@ Once you're connected to the official communication network for the Flight Contr
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Attend Propulsion orientation </td>
+    <td>Attend Flight Control orientation </td>
     <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ Once you're connected to the official communication network for the Flight Contr
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
-    <td>Attend Propulsion weekly meeting</td>
+    <td>Attend Flight Control weekly meeting</td>
     <td>Info will be sent to you</td>
   </tr>
   <tr>
